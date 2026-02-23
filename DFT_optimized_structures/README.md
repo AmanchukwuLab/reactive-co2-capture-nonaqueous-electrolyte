@@ -1,2 +1,3 @@
-DFT optimized geometries associated with the reactive CO2 capture study.
-Files will include final relaxed structures and representative input/output files.
+DFT optimized geometries from periodic slab calculations. Files correspond to final relaxed structures used in the study.
+Format: VASP CONTCAR.
+Systems included Ag and Zn slabs with adsorbed species.
